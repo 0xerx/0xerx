@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xerx
+- 👋 Hi, I’m erx
 - 📫 0xerx@protonmail.com
 
 <!---
